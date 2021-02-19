@@ -25,6 +25,10 @@ All my projects are available here on GitHub. You can view my top projects/contr
 <a href="https://steamcommunity.com/id/nhcarrigan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-nhcarrigan-purple" /></a>
 </p>
 <hr />
+<h2 align="center">Old Projects</h2>
+<p align="center">
+Looking for a repository and don't see it? I keep all of my old, deprecated projects in a <a href="https://github.com/nhcarrigan-archive" target="_blank" rel="noopener noreferrer">separate archive</a> to keep my repository list clean.
+<hr />
 <h2 align="center">Contact</h2>
 <p align="center">
 I may be contacted through my <a href="http://chat.nhcarrigan.com" target="_blank" rel="noopener noreferrer">Chat Server</a> or via <a href="https://www.nhcarrigan.com/contact" target="_blank" rel="noopener noreferrer">email form</a>.
