@@ -18,8 +18,8 @@ All my projects are available here on GitHub. You can view my top projects/contr
 <hr />
 <h2 align="center">Social Media</h2>
 <p align="center">
-<a href="https://facebook.com/nhcarrigan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/facebook-Nicholas%20Carrigan-purple" /></a>
-<a href="https://linkedin.com/in/nhcarrigan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Nicholas%20Carrigan-purple" /></a>
+<a href="https://facebook.com/nhcarrigan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/facebook-Nicholas%20Carrigan-purple?logo=facebook&color=blue" /></a>
+<a href="https://linkedin.com/in/nhcarrigan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Nicholas%20Carrigan-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
 <a href="https://steamcommunity.com/id/nhcarrigan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Steam-nhcarrigan-purple" /></a>
 </p>
 <hr />
