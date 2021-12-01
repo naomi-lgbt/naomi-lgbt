@@ -29,5 +29,5 @@ Looking for a repository and don't see it? I keep all of my old, deprecated proj
 <hr />
 <h2 align="center">Contact</h2>
 <p align="center">
-I may be contacted through my <a href="http://chat.nhcarrigan.com" target="_blank" rel="noopener noreferrer">Chat Server</a> or via <a href="https://www.nhcarrigan.com/contact" target="_blank" rel="noopener noreferrer">email form</a>.
+I may be contacted through my <a href="https://chat.nhcarrigan.com" target="_blank" rel="noopener noreferrer">Chat Server</a> or via <a href="https://www.nhcarrigan.com/#contact" target="_blank" rel="noopener noreferrer">other social platforms</a>.
 </p>
