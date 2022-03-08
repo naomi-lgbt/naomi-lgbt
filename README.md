@@ -30,3 +30,8 @@ Looking for a repository and don't see it? I keep all of my old, deprecated proj
 <p align="center">
 I may be contacted through my <a href="https://chat.nhcarrigan.com" target="_blank" rel="noopener noreferrer">Chat Server</a> or via <a href="https://www.nhcarrigan.com/#contact" target="_blank" rel="noopener noreferrer">other social platforms</a>.
 </p>
+<p align="center">
+  <a href="https://chat.nhcarrigan.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://lanyard.cnrad.dev/api/465650873650118659" />
+  </a>
+</p>
