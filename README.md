@@ -32,6 +32,6 @@ I may be contacted through my <a href="https://chat.nhcarrigan.com" target="_bla
 </p>
 <p align="center">
   <a href="https://chat.nhcarrigan.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://rpc.nhcarrigan.com" />
+    <img src="https://rpc.naomi.lgbt" />
   </a>
 </p>
