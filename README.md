@@ -1,6 +1,8 @@
 <h1 align="center">Naomi Carrigan</h1>
 <p align="center">
-  <img src="http://cdn.nhcarrigan.com/banner.png" alt="Social Media Banner" />
+
+  ![Social Media Banner](https://cdn.nhcarrigan.com/banner.png)
+  
 </p>
 <p align="center">
 Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
