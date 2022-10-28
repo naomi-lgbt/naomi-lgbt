@@ -1,8 +1,6 @@
 <h1 align="center">Naomi Carrigan</h1>
 <p align="center">
-
-  ![Social Media Banner](https://cdn.nhcarrigan.com/banner.png)
-  
+  <img src="https://github.com/naomi-lgbt/naomi-lgbt/blob/feat/update-readme/banner.png?raw=true" alt="Social Media Banner" />
 </p>
 <p align="center">
 Hello! Welcome to my GitHub profile! Thank you for visiting! 🙃
