@@ -31,21 +31,22 @@ Speaking of organisations, my work is spread across a few of them.
 <li><a href="https://github.com/beccalyria" target="_blank">Becca Lyria</a> - Holds the work for my community management and moderation Discord bot.</li>
 <li><a href="https://github.com/rosalianightsong" target="_blank">Rosalia Nightsong</a> - Holds the work for my idle-type RPG game on Discord.</li>
 <li><a href="https://github.com/nhcarrigan" target="_blank">NHCarrigan</a> - Holds the work done for my clients.</li>
+<li><a href="https://github.com/naomis-novas" target="blank">Naomi's Novas</a> - My open source community~!</li>
 <li><a href="https://github.com/naomis-archive" target="_blank">Naomi's Archive</a> - Holds my old projects that are no longer maintained.</li>
 </ul>
 </p>
 <h2 align="center">Social Media</h2>
 <p align="center">
-<a href="https://linkedin.com/in/nhcarrigan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Naomi%20Carrigan-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
-<a href="https://steamcommunity.com/id/nhcarrigan" target="_blank"><img src="https://img.shields.io/badge/Steam-nhcarrigan-purple?logo=steam&logoColor=black&color=black"" /></a>
+<a href="https://linkedin.com/in/naomi-lgbt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Naomi%20Carrigan-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
+<a href="https://steamcommunity.com/id/naomi-lgbt" target="_blank"><img src="https://img.shields.io/badge/Steam-Naomi-purple?logo=steam&logoColor=black&color=black" /></a>
 </p>
 <hr />
 <h2 align="center">Contact</h2>
 <p align="center">
-I may be contacted through my <a href="https://chat.nhcarrigan.com" target="_blank">Chat Server</a> or via <a href="https://www.nhcarrigan.com/#contact" target="_blank">other social platforms</a>.
+I may be contacted through my <a href="https://chat.naomi.lgbt" target="_blank">Chat Server</a> or via <a href="https://www.naomi.lgbt/tavern" target="_blank">other social platforms</a>.
 </p>
 <p align="center">
-  <a href="https://chat.nhcarrigan.com" target="_blank">
+  <a href="https://chat.naomi.lgbt" target="_blank">
     <img src="https://rpc.naomi.lgbt" />
   </a>
 </p>
