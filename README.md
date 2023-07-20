@@ -13,7 +13,7 @@ I am a software developer based in the United States. I primarily work in TypeSc
 <hr />
 <h2 align="center">My Journey</h2>
 <p align="center">
-In April of 2020, I found myself in a position where I would resign from my retail work. In the midst of the pandemic, I was now unemployed - but in a good financial position where I could take some time off. My plan was originally to take a few months off to do nothing but lounge around, game, and explore my own interests. That... lasted all of two weeks before I was completely bored out of her mind. In need of a new hobby (and having always loved computers, electronics, and technology), I decided I would explore the idea of learning to code. I searched up "learn to code for free" and came across <a href="https://freecodecamp.org" target="blank">freeCodeCamp</a>, where I signed up and started the curriculum. While this was just intended to be a hobby, and I was considering a career in human resources, I ended up diving in full force. Within about 6 months I had completed the entire freeCodeCamp curriculum (at least, what was there at the time). Finding a strong love for this work, I continued to branch out. freeCodeCamp had taught me the basics of the MERN stack, but a fellow developer in the community had introduced me to TypeScript and Angular. I fell in love, and now use TypeScript on all of my projects. I became highly involved in open source, contributing to other projects and starting my own projects. Included in those contributions, of course, was the freeCodeCamp code base. After a few months of steady and quality contribution, I was given the chance to join the <a href="https://github.com/freecodecamp" target="_blank">freeCodeCamp</a> team in December of 2020. I have remained there ever since, while also picking up work for <a href="https://github.com/streamcord" target="_blank">Streamcord</a>, <a href="https://github.com/rythm_community" target="_blank">Rythm</a>, <a href="https://github.com/tweetshift" target="_blank">TweetShift</a>, and formerly <a href="https://github.com/semalab" target="_blank">Sema Software</a>.
+In April of 2020, I found myself in a position where I would resign from my retail work. In the midst of the pandemic, I was now unemployed - but in a good financial position where I could take some time off. My plan was originally to take a few months off to do nothing but lounge around, game, and explore my own interests. That... lasted all of two weeks before I was completely bored out of her mind. In need of a new hobby (and having always loved computers, electronics, and technology), I decided I would explore the idea of learning to code. I searched up "learn to code for free" and came across <a href="https://freecodecamp.org" target="blank">freeCodeCamp</a>, where I signed up and started the curriculum. While this was just intended to be a hobby, and I was considering a career in human resources, I ended up diving in full force. Within about 6 months I had completed the entire freeCodeCamp curriculum (at least, what was there at the time). Finding a strong love for this work, I continued to branch out. freeCodeCamp had taught me the basics of the MERN stack, but a fellow developer in the community had introduced me to TypeScript and Angular. I fell in love, and now use TypeScript on all of my projects. I became highly involved in open source, contributing to other projects and starting my own projects. Included in those contributions, of course, was the freeCodeCamp code base. After a few months of steady and quality contribution, I was given the chance to join the <a href="https://github.com/freecodecamp" target="_blank">freeCodeCamp</a> team in December of 2020. I have remained there ever since, while also picking up work for <a href="https://github.com/streamcord" target="_blank">Streamcord</a>, <a href="https://github.com/rythm_community" target="_blank">Rythm</a>, and formerly <a href="https://github.com/tweetshift" target="_blank">TweetShift</a> and <a href="https://github.com/semalab" target="_blank">Sema Software</a>.
 </p>
 <hr />
 <h2 align="center">Projects</h2>
@@ -30,23 +30,15 @@ Speaking of organisations, my work is spread across a few of them.
 <ul align="center">
 <li><a href="https://github.com/beccalyria" target="_blank">Becca Lyria</a> - Holds the work for my community management and moderation Discord bot.</li>
 <li><a href="https://github.com/rosalianightsong" target="_blank">Rosalia Nightsong</a> - Holds the work for my idle-type RPG game on Discord.</li>
-<li><a href="https://github.com/nhcarrigan" target="_blank">NHCarrigan</a> - Holds the work done for my clients.</li>
+<li><a href="https://github.com/beccalia" target="_blank">Beccalia</a> - Holds the work for my ongoing game series.</li>
+<li><a href="https://github.com/nhcarrigan" target="_blank">NHCarrigan</a> - Holds the work done for my clients, or for public use.</li>
 <li><a href="https://github.com/naomis-novas" target="blank">Naomi's Novas</a> - My open source community~!</li>
 <li><a href="https://github.com/naomis-archive" target="_blank">Naomi's Archive</a> - Holds my old projects that are no longer maintained.</li>
 </ul>
 </p>
-<h2 align="center">Social Media</h2>
-<p align="center">
-<a href="https://linkedin.com/in/naomi-lgbt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Naomi%20Carrigan-purple?logo=linkedin&logoColor=blue&color=blue" /></a>
-<a href="https://steamcommunity.com/id/naomi-lgbt" target="_blank"><img src="https://img.shields.io/badge/Steam-Naomi-purple?logo=steam&logoColor=black&color=black" /></a>
-</p>
 <hr />
 <h2 align="center">Contact</h2>
 <p align="center">
-I may be contacted through my <a href="https://chat.naomi.lgbt" target="_blank">Chat Server</a> or via <a href="https://www.naomi.lgbt/tavern" target="_blank">other social platforms</a>.
+I may be contacted through my <a href="https://chat.naomi.lgbt" target="_blank">Chat Server</a> or via <a href="https://socials.naomi.lgbt" target="_blank">other social platforms</a>.
 </p>
-<p align="center">
-  <a href="https://chat.naomi.lgbt" target="_blank">
-    <img src="https://rpc.naomi.lgbt" />
-  </a>
-</p>
+
