@@ -31,7 +31,7 @@ Speaking of organisations, my work is spread across a few of them.
 <li><a href="https://github.com/beccalyria" target="_blank">Becca Lyria</a> - Holds the work for my community management and moderation Discord bot.</li>
 <li><a href="https://github.com/rosalianightsong" target="_blank">Rosalia Nightsong</a> - Holds the work for my idle-type RPG game on Discord.</li>
 <li><a href="https://github.com/beccalia" target="_blank">Beccalia</a> - Holds the work for my ongoing game series.</li>
-<li><a href="https://github.com/nhcarrigan" target="_blank">NHCarrigan</a> - Holds the work done for my clients, or for public use.</li>
+<li><a href="https://github.com/nhcarrigan" target="_blank">NHCarrigan</a> - While my personal account holds projects specific to my needs, this organisation holds the work done for my clients or for public use.</li>
 <li><a href="https://github.com/naomis-novas" target="blank">Naomi's Novas</a> - My open source community~!</li>
 <li><a href="https://github.com/naomis-archive" target="_blank">Naomi's Archive</a> - Holds my old projects that are no longer maintained.</li>
 </ul>
@@ -41,4 +41,3 @@ Speaking of organisations, my work is spread across a few of them.
 <p align="center">
 I may be contacted through my <a href="https://chat.naomi.lgbt" target="_blank">Chat Server</a> or via <a href="https://socials.naomi.lgbt" target="_blank">other social platforms</a>.
 </p>
-
