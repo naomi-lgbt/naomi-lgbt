@@ -39,5 +39,5 @@ Speaking of organisations, my work is spread across a few of them.
 <hr />
 <h2 align="center">Contact</h2>
 <p align="center">
-I may be contacted through my <a href="https://chat.naomi.lgbt" target="_blank">Chat Server</a> or via <a href="https://socials.naomi.lgbt" target="_blank">other social platforms</a>.
+I may be contacted through my <a href="https://chat.nhcarrigan.com" target="_blank">Chat Server</a> or via <a href="https://socials.naomi.lgbt" target="_blank">other social platforms</a>.
 </p>
