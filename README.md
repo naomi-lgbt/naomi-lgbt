@@ -1,5 +1,4 @@
 # Naomi Carrigan
-**Multifaceted Software Engineer and Community Specialist | Designing Innovative Discord Bots and Managing Vibrant Online Communities**
 
 With a deep passion for leveraging technology for positive social impact, I am a community-oriented software engineer dedicated to cultivating safe, inclusive, and welcoming online spaces. My focus on user experience and accessibility drives me to create robust software tools and platforms that prioritize privacy, security, and diversity.
 
