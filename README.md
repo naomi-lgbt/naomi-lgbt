@@ -1,5 +1,7 @@
 # Naomi Carrigan
 
+![banner image](https://cdn.nhcarrigan.com/banner.png)
+
 With a deep passion for leveraging technology for positive social impact, I am a community-oriented software engineer dedicated to cultivating safe, inclusive, and welcoming online spaces. My focus on user experience and accessibility drives me to create robust software tools and platforms that prioritize privacy, security, and diversity.
 
 My career reflects a commitment to supporting aspiring developers as they break into the tech industry. Through mentorship, educational initiatives, and advocating for inclusive hiring practices, I strive to remove barriers and empower underrepresented individuals in the digital realm.
