@@ -1,1 +1,1 @@
-# Come visit us at https://forum.nhcarrigan.com~!
+# Come visit us at https://chat.nhcarrigan.com~!
